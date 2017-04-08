@@ -7,25 +7,25 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- ...thing 1
-- ...thing 2
+- how to use GitHub
+- everyones name 
 
 ## Questions:
 
-- ...thing 1
-- ...thing 2
+- how to write out our variable with JS
+- we can host a site on github? 
 
 ## Bugs discovered / what I got stuck on:
 
-- ...thing 1
-- ...thing 2
+- forgot the basic structure of writing a variable
+- forgot the thought process that I learned in the intro to JS weekend. 
 
 ## Useful links to save for later:
 
-- ...thing 1
+- https://mlmendavia.github.io/
 - ...thing 2
 
 ## My next goals:
 
-- ...thing 1
-- ...thing 2
+- add to my 50 questions list
+- write this variable out 
