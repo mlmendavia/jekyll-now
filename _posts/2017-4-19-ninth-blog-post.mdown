@@ -1,0 +1,32 @@
+---
+layout: post
+title: This is my 9th post on Wednesday April 19. 
+---
+
+I learned how my developers use Git and the command line for our consoles like CMS and online product catalog. They are back-end developers who work with enhancements and once the site is taken down for builds they deploy everything all at once. 
+
+## Today I learned (#TIL):
+
+- add numbers in variables 
+- Change the 0 so that sum will equal 20.
+-my solution: var sum = 10 + 10 
+
+## Questions:
+
+- how front end developers use GitHub
+- real world project example of GitHub just for insight into the process
+
+## Bugs discovered / what I got stuck on:
+
+- forgot the basic structure of writing a variable
+- forgot the thought process that I learned in the intro to JS weekend. 
+
+## Useful links to save for later:
+
+- https://mlmendavia.github.io/
+- ...thing 2
+
+## My next goals:
+
+- add to my 50 questions list
+- write this variable out 

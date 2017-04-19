@@ -1,0 +1,32 @@
+---
+layout: post
+title: This is my 8th post on Wednesday April 19. 
+---
+
+This is my first blog post made with Jekyll! Woohoo! In this first post, I'll share some notes on what I learned today at the first class meeting of the very first [Learn Teach Code](http://learnteachcode.org/) UnBootcamp experiment.
+
+## Today I learned (#TIL):
+
+- add numbers in variables 
+- Change the 0 so that sum will equal 20.
+-my solution: var sum = 10 + 10 
+
+## Questions:
+
+- how front end developers use GitHub
+- real world project example of GitHub just for insight into the process
+
+## Bugs discovered / what I got stuck on:
+
+- forgot the basic structure of writing a variable
+- forgot the thought process that I learned in the intro to JS weekend. 
+
+## Useful links to save for later:
+
+- https://mlmendavia.github.io/
+- ...thing 2
+
+## My next goals:
+
+- add to my 50 questions list
+- write this variable out 
