@@ -1,0 +1,32 @@
+---
+layout: post
+title: This is my 12th post on Wednesday April 19, 2017
+---
+
+I'm still going through FreeCodeCamp and I learned how to divide numbers in variables. 
+
+## Today I learned (#TIL):
+
+- Divide the numbers in a variable 
+- Change the 0 so that the quotient is equal to 2
+- var quotient = 66 / 33;
+
+## Questions:
+
+- how front end developers use GitHub
+- real world project example of GitHub just for insight into the process
+
+## Bugs discovered / what I got stuck on:
+
+- forgot the basic structure of writing a variable
+- forgot the thought process that I learned in the intro to JS weekend. 
+
+## Useful links to save for later:
+
+- https://mlmendavia.github.io/
+- ...thing 2
+
+## My next goals:
+
+- add to my 50 questions list
+- write this variable out 
