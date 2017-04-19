@@ -1,0 +1,32 @@
+---
+layout: post
+title: This is my 10th post on Wednesday April 19. 
+---
+
+I'm still going through FreeCodeCamp and I learned how to subtract numbers in variables. 
+
+## Today I learned (#TIL):
+
+- subtract numbers in variables 
+- Change the 0 so that the difference is 12.
+-var difference = 45 - 33;
+
+## Questions:
+
+- how front end developers use GitHub
+- real world project example of GitHub just for insight into the process
+
+## Bugs discovered / what I got stuck on:
+
+- forgot the basic structure of writing a variable
+- forgot the thought process that I learned in the intro to JS weekend. 
+
+## Useful links to save for later:
+
+- https://mlmendavia.github.io/
+- ...thing 2
+
+## My next goals:
+
+- add to my 50 questions list
+- write this variable out 
