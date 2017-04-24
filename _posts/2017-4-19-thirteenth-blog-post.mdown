@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is my 13th post on Wednesday April 19, 2017
+title: This is my 13th post on Wednesday April 19, 201
 ---
 
 I'm still going through FreeCodeCamp and I learned how to increment a number in JS . 
